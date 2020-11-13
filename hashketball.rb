@@ -1,13 +1,13 @@
 def game_hash
   hash = {
     home: {
-      team_name: "",
-      colors: [],
-      players: [{}]
+      team_name: "Brooklyn Nets",
+      colors: ["Black", "White"],
+      players: [{alan_anderson:}]
     },
     away: {
-      team_name: "",
-      colors: [],
+      team_name: "Charlotte Hornets",
+      colors: ["Turquoise", "Purple"],
       players: [{}]
     }
   }
